@@ -1,5 +1,3 @@
-시연 영상 (Youtube 링크) https://youtu.be/JAPtBsYc8is
-
 # 1. 프로젝트명
 
 ### JSP 부루마블 ( 마블해윰 )
